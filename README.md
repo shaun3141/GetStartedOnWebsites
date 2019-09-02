@@ -17,7 +17,7 @@ After clicking "Create Account" and then "Finish Sign Up" (the free plan is fine
 
 Click the button in the email they sent you and it will take you to your main page. Cool!
 
-![alt text](https://github.com/OutreachHelper/GetCoding/blob/gh-pages/Images/GItHub1.jpg "Github after logging in")
+![alt text](https://shaun3141.github.io/GetStartedOnWebsites/Images/GItHub1.jpg "Github after logging in")
 
 Click the "New Repository" button or the "Create New Repository" link.
 
@@ -25,22 +25,22 @@ Once at the new repository screen, give your repository a name. A repository is 
 
 IMPORTANT: Click the checkbox that says "Initialize this repository with a README"
 
-![alt text](https://github.com/OutreachHelper/GetCoding/blob/gh-pages/Images/GItHub2.jpg "New Repo")
+![alt text](https://shaun3141.github.io/GetStartedOnWebsites/Images/GItHub2.jpg "New Repo")
 
 Click on where it says "Branch: Master" and type in "gh-pages" exactly like that. Then click below where it says "Create Branch" in blue.
-![alt text](https://github.com/OutreachHelper/GetCoding/blob/gh-pages/Images/GItHub3.jpg "new branch")
-![alt text](https://github.com/OutreachHelper/GetCoding/blob/gh-pages/Images/GItHub4.jpg "gh-pages branch")
+![alt text](https://shaun3141.github.io/GetStartedOnWebsites/Images/GItHub3.jpg "new branch")
+![alt text](https://shaun3141.github.io/GetStartedOnWebsites/Images/GItHub4.jpg "gh-pages branch")
 
 We're almost done!
 
 Next, click the "Settings" tab, then "Branches" on the left menu.
-![alt text](https://github.com/OutreachHelper/GetCoding/blob/gh-pages/Images/GItHub5.jpg "Settings tab")
+![alt text](https://shaun3141.github.io/GetStartedOnWebsites/Images/GItHub5.jpg "Settings tab")
 
 The first heading is for the default branch, this is what we want to change. It currently says "Master", go ahead and click the button and it will create a dropdown. Select "gh-pages". 
-![alt text](https://github.com/OutreachHelper/GetCoding/blob/gh-pages/Images/GItHub6.jpg "Setting default")
+![alt text](https://shaun3141.github.io/GetStartedOnWebsites/Images/GItHub6.jpg "Setting default")
 
 Now that you have selected "gh-pages", we'll click "Update". It will pop up with a scary looking message, just click "I understand ..".
-![alt text](https://github.com/OutreachHelper/GetCoding/blob/gh-pages/Images/GItHub7.jpg "Scary message")
+![alt text](https://shaun3141.github.io/GetStartedOnWebsites/Images/ "Scary message")
 
 Phew! The hard stuff is pretty much done!
 
@@ -50,7 +50,7 @@ We can now start creating whatever files we like. Click "New File" in the middle
 
 You're now on the screen to create a new file. The easiest thing will be is to use a text editor like Notepad++ or Brackets to write your code and then copy it over to the big textbox on Github. To start with, name your file "index.html". We use "index.html" becuase when you go to a website, that's the page that always shows up by default. For example, if you go to "http://www.shaunvanweelden.com", it'd be the same as going to "http://www.shaunvanweelden.com/index.html". If you don't specify a particular web page, it will try and show "index.html". 
 
-![alt text](https://github.com/OutreachHelper/GetCoding/blob/gh-pages/Images/GItHub8.jpg "new file")
+![alt text](https://shaun3141.github.io/GetStartedOnWebsites/Images/GItHub8.jpg "new file")
 
 Anyways! After naming your file "index.html", go ahead and copy this code into your editor on GitHub:
 
@@ -75,7 +75,7 @@ Anyways! After naming your file "index.html", go ahead and copy this code into y
 </html>
 ```
 
-![alt text](https://github.com/OutreachHelper/GetCoding/blob/gh-pages/Images/GItHub9.jpg "finished file")
+![alt text](https://shaun3141.github.io/GetStartedOnWebsites/Images/GItHub9.jpg "finished file")
 
 After copying the code into the editor, scroll down a bit to where it says "Commit New File". Feel free to add a little message about what you did, then click the green "Commit New File" button.
 
